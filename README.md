@@ -40,7 +40,7 @@ lutim.getApiUrl() // => 'http://myUrl/'
 
 #### getServerInfos(): Promise
 
-See (https://framagit.org/fiat-tux/hat-softwares/lutim/wikis/API#get-informations-about-the-server)[https://framagit.org/fiat-tux/hat-softwares/lutim/wikis/API#get-informations-about-the-server]
+See [https://framagit.org/fiat-tux/hat-softwares/lutim/wikis/API#get-informations-about-the-server](https://framagit.org/fiat-tux/hat-softwares/lutim/wikis/API#get-informations-about-the-server)
 
 Returns a Promise
 
