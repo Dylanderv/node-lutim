@@ -165,3 +165,9 @@ lutim.getImageCountAndStatus(short, token)
     // Handle err
   })
 ```
+
+### Credit
+
+The code is inspired by [node-imgur](https://github.com/kaimallea/node-imgur)
+
+Made for [lutim](https://framagit.org/fiat-tux/hat-softwares/lutim)
