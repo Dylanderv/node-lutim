@@ -17,7 +17,7 @@ npm install lutim
 #### Requiring the module
 
 ```javascript
-var lutim = require('path/to/lutim');
+var lutim = require('lutim');
 ```
 
 #### setApiUrl(url: String)
