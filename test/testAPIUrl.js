@@ -3,7 +3,7 @@ var expect = require('chai').expect;
 
 describe('APIUrl', () => {
   it('should return default API url', () => {
-    var defaultApi = 'https://lut.im/';
+    var defaultApi = 'https://framapic.org/';
     expect(lutim.getAPIUrl()).to.be.equal(defaultApi);
   });
 
