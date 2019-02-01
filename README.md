@@ -9,7 +9,7 @@ The source code is strongly inspired by [node-imgur](https://github.com/kaimalle
 ### Installation
 
 ```
-TODO Publish to npm
+npm install lutim
 ```
 
 ### Usage
