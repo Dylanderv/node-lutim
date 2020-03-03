@@ -1,6 +1,6 @@
 {
   "name": "lutim",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node api for lutim",
   "main": "lib/lutim.js",
   "scripts": {
